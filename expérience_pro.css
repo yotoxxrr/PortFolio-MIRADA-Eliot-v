@@ -81,14 +81,15 @@
     position: absolute;
     height: 200px;
     width: 350px;
-    top: 50px;
+    left: -150px;
+    top: -300px;
 }
 
 .img2 {
     position: absolute;
     height: 180px;
     width: 220px;
-    top: 175px;
+    top: 125px;
     left: 340px;
 }
 
@@ -103,7 +104,7 @@
     position: absolute;
     height: 180px;
     width: 220px;
-    bottom: 1px;
+    bottom: -80px;
     left: 340px;
 }
 
@@ -111,30 +112,32 @@
     position: absolute;
     height: 220px;
     width: 270px;
-    top: 50px;
-    left: 220px;
+    top: -120px;
+    left: 75px;
 }
 
 .img6 {
     position: absolute;
     height: 220px;
     width: 270px;
-    top: 50px;
+    top: -100px;
+    right: -75px;
 }
 
 .img7 {
     position: absolute;
     height: 220px;
     width: 270px;
-    top: 240px;
-    left: 200px;
+    top: 100px;
+    left: 70px;
 }
 
 .img8 {
     position: absolute;
     height: 220px;
     width: 220px;
-    top: 240px;
+    top: 100px;
+    right: -30px;
 
 }
 
